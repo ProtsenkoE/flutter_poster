@@ -1,6 +1,6 @@
 # Sample Poster using Flutter
 
-# Preview
+## Preview
 ![poster](poster.png)
 
 ## Installation
